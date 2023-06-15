@@ -1,0 +1,27 @@
+C:\Users\mchmd\Downloads\Mochamad Irvan VB\Irvan\Irvan\bin\Debug\Irvan.exe.config
+C:\Users\mchmd\Downloads\Mochamad Irvan VB\Irvan\Irvan\bin\Debug\Irvan.exe
+C:\Users\mchmd\Downloads\Mochamad Irvan VB\Irvan\Irvan\bin\Debug\Irvan.pdb
+C:\Users\mchmd\Downloads\Mochamad Irvan VB\Irvan\Irvan\bin\Debug\Irvan.xml
+C:\Users\mchmd\Downloads\Mochamad Irvan VB\Irvan\Irvan\obj\Debug\Irvan.vbproj.AssemblyReference.cache
+C:\Users\mchmd\Downloads\Mochamad Irvan VB\Irvan\Irvan\obj\Debug\Irvan.Resources.resources
+C:\Users\mchmd\Downloads\Mochamad Irvan VB\Irvan\Irvan\obj\Debug\Irvan.vbproj.GenerateResource.cache
+C:\Users\mchmd\Downloads\Mochamad Irvan VB\Irvan\Irvan\obj\Debug\Irvan.vbproj.CoreCompileInputs.cache
+C:\Users\mchmd\Downloads\Mochamad Irvan VB\Irvan\Irvan\obj\Debug\Irvan.exe
+C:\Users\mchmd\Downloads\Mochamad Irvan VB\Irvan\Irvan\obj\Debug\Irvan.xml
+C:\Users\mchmd\Downloads\Mochamad Irvan VB\Irvan\Irvan\obj\Debug\Irvan.pdb
+C:\Users\mchmd\Downloads\Mochamad Irvan VB\Irvan\Irvan\obj\Debug\Irvan.FORM_MENU.resources
+C:\Users\mchmd\Downloads\Mochamad Irvan VB\Irvan\Irvan\obj\Debug\Irvan.Form3.resources
+C:\Users\mchmd\Downloads\Mochamad Irvan VB\Irvan\Irvan\obj\Debug\Irvan.Form1.resources
+C:\Users\mchmd\Downloads\Mochamad Irvan VB\Irvan\Irvan\obj\Debug\Irvan.Form2.resources
+C:\Users\mchmd\Downloads\Mochamad Irvan VB\Irvan\Irvan\obj\Debug\Irvan.Form4.resources
+C:\Users\mchmd\Downloads\Mochamad Irvan VB\Irvan\Irvan\obj\Debug\Irvan.dlgInfo.resources
+C:\Users\mchmd\Downloads\Mochamad Irvan VB\Irvan\Irvan\obj\Debug\Irvan.Form6.resources
+C:\Users\mchmd\Downloads\Mochamad Irvan VB\Irvan\Irvan\obj\Debug\Irvan.FORM_LOGIN.resources
+C:\Users\mchmd\Downloads\Mochamad Irvan VB\Irvan\Irvan\obj\Debug\Irvan.Form7.resources
+C:\Users\mchmd\Downloads\Mochamad Irvan VB\Irvan\Irvan\obj\Debug\Irvan.Form8.resources
+C:\Users\mchmd\Downloads\Mochamad Irvan VB\Irvan\Irvan\obj\Debug\Irvan.Form9.resources
+C:\Users\mchmd\Downloads\Mochamad Irvan VB\Irvan\Irvan\obj\Debug\Irvan.Form10.resources
+C:\Users\mchmd\Downloads\Mochamad Irvan VB\Irvan\Irvan\obj\Debug\Irvan.Form_UTS.resources
+C:\Users\mchmd\Downloads\Mochamad Irvan VB (1)\Mochamad Irvan VB\Irvan\Irvan\obj\Debug\Irvan.exe
+C:\Users\mchmd\Downloads\Mochamad Irvan VB (1)\Mochamad Irvan VB\Irvan\Irvan\obj\Debug\Irvan.xml
+C:\Users\mchmd\Downloads\Mochamad Irvan VB (1)\Mochamad Irvan VB\Irvan\Irvan\obj\Debug\Irvan.pdb
